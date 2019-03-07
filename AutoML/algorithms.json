@@ -1,0 +1,21 @@
+{"classification":{
+  "sklearn":["LogisticRegressionClassifier", "SupportVectorMachineClassifier", "GradientBoostingTreeClassifier",
+    "RandomForestClassifier", "AdaboostClassifier", "ExtremeTreeClassifier"],
+  "pyspark":[],
+  "tensorflow":[]},
+"regression":{
+  "sklearn":[],
+  "pyspark":[],
+  "tensorflow":[]
+},
+"clustering":{
+  "sklearn":[],
+  "pyspark":[],
+  "tensorflow":[]
+},
+"recommendation":{
+  "sklearn":[],
+  "pyspark":[],
+  "tensorflow":[]
+}
+}
